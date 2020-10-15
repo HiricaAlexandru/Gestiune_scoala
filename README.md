@@ -1,2 +1,2 @@
 # Gestiune_scoala
-Program ce se ocupa cu gestinoarea electronica a unei scoli. Se pot crea clase, adauga teme specifice unei clase, modificarea si stergerea acestora
+This program is an electronic school managment system. You can create a class, assign students to it, and assigning them homeworks. You can also modify aspects of the class or even delete it.
